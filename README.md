@@ -11,5 +11,6 @@
 ![Css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
 
 
-Follow me
+### Follow me
 
+![Vkontakte](https://img.shields.io/badge/Vkontankte-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)
